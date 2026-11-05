@@ -31,6 +31,14 @@
       "custom_sni": "m.google.com",
       "username": "vpn",
       "password": "vpn"
+    },
+    {
+      "name": "DIRECT",
+      "server_ip": "public-vpn-16.opengw.net",
+      "port": 443,
+      "custom_sni": "",
+      "username": "vpn",
+      "password": "vpn"
     }
   ]
 }

@@ -15,6 +15,14 @@
       "custom_sni": "m.facebook.com",
       "username": "vpn",
       "password": "vpn"
+    },
+    {
+      "name": "Pogi Ako",
+      "server_ip": "public-vpn-16.opengw.net",
+      "port": 443,
+      "custom_sni": "www.mobilelegends.com",
+      "username": "vpn",
+      "password": "vpn"
     }
   ]
 }

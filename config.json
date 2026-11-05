@@ -1,12 +1,12 @@
 {
   "servers": [
     {
-      "name": "DIRECT CONNECTION 1",
+      "name": "DIRECT CONNECTION 2",
       "server_ip": "public-vpn-84.opengw.net",
       "port": 443,
       "custom_sni": "",
-      "username": "vp",
-      "password": "vpn"
+      "username": "vpn",
+      "password": "vp"
     },
     {
       "name": "Smart TikTok Bypass VIP",

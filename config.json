@@ -23,6 +23,14 @@
       "custom_sni": "www.mobilelegends.com",
       "username": "vpn",
       "password": "vpn"
+    },
+    {
+      "name": "Google Promo",
+      "server_ip": "public-vpn-16.opengw.net",
+      "port": 443,
+      "custom_sni": "m.google.com",
+      "username": "vpn",
+      "password": "vpn"
     }
   ]
 }

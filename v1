@@ -1,0 +1,20 @@
+{
+  "servers": [
+    {
+      "name": "Smart TikTok Bypass VIP",
+      "server_ip": "public-vpn-16.opengw.net",
+      "port": 443,
+      "custom_sni": "api24-normal.tiktokv.com",
+      "username": "vpn",
+      "password": "vpn"
+    },
+    {
+      "name": "Globe FB/IG Payload",
+      "server_ip": "public-vpn-16.opengw.net",
+      "port": 443,
+      "custom_sni": "m.facebook.com",
+      "username": "vpn",
+      "password": "vpn"
+    }
+  ]
+}

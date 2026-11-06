@@ -5,6 +5,8 @@
       "server_ip": "public-vpn-84.opengw.net",
       "port": 443,
       "custom_sni": "",
+      "description": "direct connection and fastest server",
+      "location": "japan",
       "username": "vpn",
       "password": "vpn"
     },
@@ -13,6 +15,8 @@
       "server_ip": "public-vpn-219.opengw.net",
       "port": 443,
       "custom_sni": "",
+      "description": "direct connection and fastest server",
+      "location": "japan",
       "username": "vpn",
       "password": "vpn"
     },
@@ -21,6 +25,8 @@
       "server_ip": "public-vpn-100.opengw.net",
       "port": 443,
       "custom_sni": "",
+      "description": "direct connection and fastest server",
+      "location": "japan",
       "username": "vpn",
       "password": "vpn"
     },
@@ -29,6 +35,8 @@
       "server_ip": "public-vpn-16.opengw.net",
       "port": 443,
       "custom_sni": "api24-normal.tiktokv.com",
+      "description": "direct connection and fastest server",
+      "location": "japan",
       "username": "vpn",
       "password": "vpn"
     },
@@ -37,6 +45,8 @@
       "server_ip": "public-vpn-16.opengw.net",
       "port": 443,
       "custom_sni": "m.facebook.com",
+      "description": "direct connection and fastest server",
+      "location": "japan",
       "username": "vpn",
       "password": "vpn"
     },
@@ -45,6 +55,8 @@
       "server_ip": "public-vpn-16.opengw.net",
       "port": 443,
       "custom_sni": "www.mobilelegends.com",
+      "description": "direct connection and fastest server",
+      "location": "japan",
       "username": "vpn",
       "password": "vpn"
     },
@@ -53,6 +65,8 @@
       "server_ip": "public-vpn-16.opengw.net",
       "port": 443,
       "custom_sni": "m.google.com",
+      "description": "direct connection and fastest server",
+      "location": "japan",
       "username": "vpn",
       "password": "vpn"
     },
@@ -61,6 +75,8 @@
       "server_ip": "vpn713264157.opengw.net",
       "port": 992,
       "custom_sni": "www.instagram.com",
+      "description": "direct connection and fastest server",
+      "location": "japan",
       "username": "vpn",
       "password": "vpn"
     }

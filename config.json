@@ -5,8 +5,8 @@
       "server_ip": "public-vpn-84.opengw.net",
       "port": 443,
       "custom_sni": "",
-      "location": "japan",
-      "description": "direct connection and fastest server",
+      "location": "tokyo japan",
+      "description": "direct connection and fastest server 1",
       "username": "vpn",
       "password": "vpn"
     },

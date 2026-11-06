@@ -55,6 +55,14 @@
       "custom_sni": "m.google.com",
       "username": "vpn",
       "password": "vpn"
+    },
+    {
+      "name": "Instagram Promo",
+      "server_ip": "vpn713264157.opengw.net",
+      "port": 992,
+      "custom_sni": "www.instagram.com",
+      "username": "vpn",
+      "password": "vpn"
     }
   ]
 }

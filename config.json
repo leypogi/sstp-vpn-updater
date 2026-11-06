@@ -56,7 +56,7 @@
       "port": 443,
       "custom_sni": "www.mobilelegends.com",
       "location": "japan",
-      "description": "bypass promo and fastest server",
+      "description": "bypass mobilelegends promo into all access data",
       "username": "vpn",
       "password": "vpn"
     },
@@ -72,8 +72,8 @@
     },
     {
       "name": "Instagram Promo",
-      "server_ip": "vpn713264157.opengw.net",
-      "port": 992,
+      "server_ip": "public-vpn-16.opengw.net",
+      "port": 443,
       "custom_sni": "www.instagram.com",
       "location": "japan",
       "description": "bypass promo and fastest server",

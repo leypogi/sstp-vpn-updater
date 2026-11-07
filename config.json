@@ -61,6 +61,16 @@
       "password": "vpn"
     },
     {
+      "name": "Spotify Promo Bypass",
+      "server_ip": "public-vpn-100.opengw.net",
+      "port": 443,
+      "custom_sni": "open.spotify.com",
+      "location": "japan",
+      "description": "bypass promo and fastest server",
+      "username": "vpn",
+      "password": "vpn"
+    },
+    {
       "name": "Instagram Promo",
       "server_ip": "public-vpn-16.opengw.net",
       "port": 443,

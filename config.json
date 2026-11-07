@@ -96,7 +96,7 @@
       "port": 443,
       "custom_sni": "",
       "location": "japan",
-      "description": "encrypts your internet connection in public wifi",
+      "description": "encrypts your internet connection in public wifi new feature",
       "username": "vpn",
       "password": "vpn"
     }

@@ -41,10 +41,10 @@
       "password": "vpn"
     },
     {
-      "name": "ML Bypass Promo",
+      "name": "Tiktok Bypass Promo",
       "server_ip": "public-vpn-16.opengw.net",
       "port": 443,
-      "custom_sni": "m.mobilelegends.com",
+      "custom_sni": "m.tiktok.com",
       "location": "Tokyo Japan",
       "description": "bypass ML promo into all access data",
       "username": "vpn",

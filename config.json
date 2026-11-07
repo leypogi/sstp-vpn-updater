@@ -22,10 +22,10 @@
     },
     {
       "name": "DIRECT CONNECTION 3",
-      "server_ip": "public-vpn-100.opengw.net",
-      "port": 443,
+      "server_ip": "vpn875965805.opengw.net",
+      "port": 1381,
       "custom_sni": "",
-      "location": "japan",
+      "location": "Russia",
       "description": "direct connection and fastest server",
       "username": "vpn",
       "password": "vpn"

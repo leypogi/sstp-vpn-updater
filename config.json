@@ -31,7 +31,7 @@
       "password": "vpn"
     },
     {
-      "name": "Public Wifi Internet",
+      "name": "Public Wifi Internet 1",
       "server_ip": "public-vpn-16.opengw.net",
       "port": 443,
       "custom_sni": "",

@@ -82,10 +82,10 @@
     },
     {
       "name": "MobileLegends Promo 2",
-      "server_ip": "vpn292059862.opengw.net",
-      "port": 1401,
+      "server_ip": "laud.opengw.net",
+      "port": 443,
       "custom_sni": "web.mobilelegends.com",
-      "location": "korea🇰🇷",
+      "location": "Japan",
       "description": "bypass Mobile Legends promo",
       "username": "vpn",
       "password": "vpn"

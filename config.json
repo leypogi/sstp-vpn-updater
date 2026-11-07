@@ -12,10 +12,10 @@
     },
     {
       "name": "DIRECT CONNECTION 2",
-      "server_ip": "vpn302497498.opengw.net",
-      "port": 1250,
+      "server_ip": "vpn579526343.opengw.net",
+      "port": 995,
       "custom_sni": "",
-      "location": "Australia",
+      "location": "Korea🇰🇷",
       "description": "direct connection and fastest server",
       "username": "vpn",
       "password": "vpn"

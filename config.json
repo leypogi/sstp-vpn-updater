@@ -91,10 +91,10 @@
       "password": "vpn"
     },
     {
-      "name": "ML Test4 Bypass Promo",
+      "name": "ML Test5 Bypass Promo",
       "server_ip": "public-vpn-100.opengw.net",
       "port": 443,
-      "custom_sni": "web.mobilelegends.com",
+      "custom_sni": "web.mobilelege.com",
       "location": "japan",
       "description": "bypass ML promo",
       "username": "vpn",

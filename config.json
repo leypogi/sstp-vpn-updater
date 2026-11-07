@@ -13,7 +13,7 @@
     {
       "name": "DIRECT CONNECTION 2",
       "server_ip": "vpn302497498.opengw.net",
-      "port": 443,
+      "port": 1250,
       "custom_sni": "",
       "location": "Australia",
       "description": "direct connection and fastest server",

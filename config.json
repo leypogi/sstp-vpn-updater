@@ -52,7 +52,7 @@
     },
     {
       "name": "MobileLegends Promo",
-      "server_ip": "public-vpn-16.opengw.net",
+      "server_ip": "public-vpn-100.opengw.net",
       "port": 443,
       "custom_sni": "www.mobilelegends.com",
       "location": "japan",
@@ -91,7 +91,7 @@
       "password": "vpn"
     },
     {
-      "name": "ML Test2 Bypass Promo",
+      "name": "ML Test3 Bypass Promo",
       "server_ip": "public-vpn-100.opengw.net",
       "port": 443,
       "custom_sni": "web.mobilelegends.com",

@@ -69,7 +69,7 @@
       "description": "bypass promo and fastest server",
       "username": "vpn",
       "password": "vpn"
-    },
+    }
     {
       "name": "Instagram Promo",
       "server_ip": "public-vpn-16.opengw.net",

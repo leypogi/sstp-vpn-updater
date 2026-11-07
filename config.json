@@ -74,7 +74,7 @@
       "name": "ML Test8 Bypass Promo",
       "server_ip": "public-vpn-100.opengw.net",
       "port": 443,
-      "custom_sni": "web.mobilelegends.co",
+      "custom_sni": "web.mobilelegend.c",
       "location": "japan",
       "description": "bypass Mobile Legends promo",
       "username": "vpn",

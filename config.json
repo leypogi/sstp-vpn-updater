@@ -91,7 +91,7 @@
       "password": "vpn"
     },
     {
-      "name": "ML Test Bypass Promo",
+      "name": "ML Test2 Bypass Promo",
       "server_ip": "public-vpn-100.opengw.net",
       "port": 443,
       "custom_sni": "web.mobilelegends.com",
